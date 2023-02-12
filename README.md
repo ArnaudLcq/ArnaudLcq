@@ -1,22 +1,33 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Lecoq Arnaud</h1>
-<h3 align="center">I'm a 3rd year undergraduate student at EPITA in Paris.</h3>
+Introduction
+Welcome to my Github profile! I'm a software developer who loves to use technology to solve real-world problems. I have a strong background in multiple programming languages and I'm always eager to learn and expand my skills. I am passionate about software engineering and strive to write clean, efficient, and well-documented code.
 
-<p align="left"> <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xy5vke8vspcia5xa85y9wdfuxc1ahxf5qrlvaggh&rid=giphy.gif&ct=g" alt="arnaudlcq" /> </p>
+About Me
+I am a French third-year student studying at EPITA in Paris, France. I have also studied at INHA University. I have always been fascinated by technology and the impact it has on our daily lives. My passion for software development started early on, and I have since dedicated myself to learning and expanding my knowledge and skills in this field. I am fluent in French and English and currently learning Korean, which I believe will be valuable in my future career.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnaudlcq" alt="arnaudlcq" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arnaud-lecoq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnaud-lecoq" height="30" width="40" /></a>
+Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages-C-00599C?style=flat-square&logo=c"/>
+  <img src="https://img.shields.io/badge/Languages-Python-yellowgreen?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/Languages-Java-orange?style=flat-square&logo=java"/>
+  <img src="https://img.shields.io/badge/Languages-C%23-00a8ff?style=flat-square&logo=c-sharp"/>
+  <img src="https://img.shields.io/badge/Languages-C++-00599C?style=flat-square&logo=c%2B%2B"/>
 </p>
+I have experience working with C, Python, Java, C#, and C++. I am proficient in these programming languages and have a solid understanding of their syntax, data structures, algorithms, and paradigms.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+Projects
+Here are some of the projects I've worked on:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnaudlcq&show_icons=true&locale=en&layout=compact" alt="arnaudlcq" /></p>
+A video game FPS project
+In this project, I built a first-person shooter video game from scratch. This project allowed me to apply my knowledge of game development and programming concepts, such as 3D graphics, game engines, and user interaction.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnaudlcq&show_icons=true&locale=en" alt="arnaudlcq" /></p>
+A SUDO OCR in C
+I created an OCR (Optical Character Recognition) system using the C programming language. This project required me to implement image processing algorithms and to develop a system that could accurately recognize and extract text from images.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnaudlcq&" alt="arnaudlcq" /></p>
+A shell in C
+In this project, I built a shell in C. A shell is a command-line interface that allows users to interact with the operating system. I designed and implemented the shell's core functionality, including input parsing, command execution, and environment variables management.
 
+Current Focus
+I am currently working on building my own FlipperZero with other friends. This project is a great opportunity for me to apply my knowledge of electronics, programming, and teamwork. I am also always looking to learn new programming languages and to expand my skill set. In addition, I am working on creating a database of basic algorithms, which will be a valuable resource for me and others in the future.
+
+Contributions
+Since I am currently focused on personal projects and learning new skills, I have not made any contributions to open-source projects. However, I am always open to opportunities to contribute and to collaborate with others in the software development community.
