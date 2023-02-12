@@ -1,33 +1,60 @@
-Introduction
-Welcome to my Github profile! I'm a software developer who loves to use technology to solve real-world problems. I have a strong background in multiple programming languages and I'm always eager to learn and expand my skills. I am passionate about software engineering and strive to write clean, efficient, and well-documented code.
-
-About Me
-I am a French third-year student studying at EPITA in Paris, France. I have also studied at INHA University. I have always been fascinated by technology and the impact it has on our daily lives. My passion for software development started early on, and I have since dedicated myself to learning and expanding my knowledge and skills in this field. I am fluent in French and English and currently learning Korean, which I believe will be valuable in my future career.
-
-Skills
+Welcome to my Github Profile!
 <p align="center">
-  <img src="https://img.shields.io/badge/Languages-C-00599C?style=flat-square&logo=c"/>
-  <img src="https://img.shields.io/badge/Languages-Python-yellowgreen?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/Languages-Java-orange?style=flat-square&logo=java"/>
-  <img src="https://img.shields.io/badge/Languages-C%23-00a8ff?style=flat-square&logo=c-sharp"/>
-  <img src="https://img.shields.io/badge/Languages-C++-00599C?style=flat-square&logo=c%2B%2B"/>
+  <img src="https://img.shields.io/badge/Language-C%2CPython%2CJava%2CC%23%2CC%2B%2B-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Student-EPITA-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Graduated%20From-INHA%20University-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Available%20for%20Hire-Yes-green?style=flat-square"/>
 </p>
-I have experience working with C, Python, Java, C#, and C++. I am proficient in these programming languages and have a solid understanding of their syntax, data structures, algorithms, and paradigms.
+About Me
 
-Projects
-Here are some of the projects I've worked on:
+I am a third-year student at EPITA in Paris, France, and a recent graduate of INHA University. I am fluent in French and English, and I am currently learning Korean. I have a strong passion for software development and always seek to improve my skills and knowledge.
+💻 Projects
 
-A video game FPS project
-In this project, I built a first-person shooter video game from scratch. This project allowed me to apply my knowledge of game development and programming concepts, such as 3D graphics, game engines, and user interaction.
+I have several notable projects under my belt, including:
 
-A SUDO OCR in C
-I created an OCR (Optical Character Recognition) system using the C programming language. This project required me to implement image processing algorithms and to develop a system that could accurately recognize and extract text from images.
+    A video game FPS project
 
-A shell in C
-In this project, I built a shell in C. A shell is a command-line interface that allows users to interact with the operating system. I designed and implemented the shell's core functionality, including input parsing, command execution, and environment variables management.
+    An OCR in C
 
-Current Focus
-I am currently working on building my own FlipperZero with other friends. This project is a great opportunity for me to apply my knowledge of electronics, programming, and teamwork. I am also always looking to learn new programming languages and to expand my skill set. In addition, I am working on creating a database of basic algorithms, which will be a valuable resource for me and others in the future.
+    A shell in C
 
-Contributions
-Since I am currently focused on personal projects and learning new skills, I have not made any contributions to open-source projects. However, I am always open to opportunities to contribute and to collaborate with others in the software development community.
+In these projects, I have demonstrated my ability to work with complex software systems, to write clean, efficient, and well-structured code, and to solve challenging problems.
+🔍 What I'm Doing Now
+
+I am currently working on several projects:
+
+    Making my own FlipperZero with other friends
+
+I am part of a team that is building a FlipperZero, a compact, low-cost, and customizable handheld computer. This project involves hardware and software development, and I am using my skills in programming and electronics to contribute to the success of the project.
+
+    Learning new languages
+
+I am always seeking to expand my knowledge and skills, and I am currently learning new programming languages to improve my versatility as a software developer.
+
+    Making a database of basic algorithms
+
+I am also working on creating a database of basic algorithms that I can reference when I need to implement specific functionality in my projects. This database will help me to write efficient and well-structured code.
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-In%20Progress-orange?style=flat-square"/>
+</p>
+💬 Contributions
+
+Unfortunately, I have not yet had the opportunity to contribute to any open-source projects. However, I am always on the lookout for opportunities to contribute and to give back to the open-source community.
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions-None-lightgray?style=flat-square"/>
+</p>
+
+Get in Touch
+
+Thank you for visiting my Github profile! I hope this information gives you a good idea of my background and skills. If you have any questions or would like to work on a project together, please feel free to reach out to me.
+
+You can find me on the following platforms:
+
+    LinkedIn
+ 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arnaud-lecoq-18a2b7209/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+Thank you for your time and consideration!
