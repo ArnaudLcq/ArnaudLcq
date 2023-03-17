@@ -54,7 +54,7 @@ You can find me on the following platforms:
  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arnaud-lecoq-18a2b7209/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/arnaud-lecoq/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 Thank you for your time and consideration!
